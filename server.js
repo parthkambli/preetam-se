@@ -8,7 +8,7 @@ const fitnessEnquiryRoutes = require('./routes/fitness-enquiry');
 const schoolAdmissionRoutes = require('./routes/school-admission');
 const followupRoutes = require('./routes/followups');
 const studentRoutes = require('./routes/students');
-const staffRoutes = require('./routes/Staffroutes');
+const staffRoutes = require('./routes/staffRoutes');
 const activityRoutes = require('./routes/activityRoutes');
 
 
